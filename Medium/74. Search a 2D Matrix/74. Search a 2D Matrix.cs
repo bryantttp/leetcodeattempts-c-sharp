@@ -36,5 +36,6 @@ public class Solution {
 
         // Runtime = 71ms, beats 79.33% of users
         // Memory = 42.95MB, beats 90.37% of users
+        // O(mLog(n)) solution
     }
 }
